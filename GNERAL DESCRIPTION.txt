@@ -1,0 +1,8 @@
+NIRTUAL TERMINAL +BLUETOOTH HC05   ====MOB APP
+BLUETOOTH HC1+MASTER MCU                 ====UART
+MASTER MC + SLAVE MCU                            ====SPI
+SLAVE MC+LED D1 + BUZZER BUZ1              ==== DIO
+5 -> LED BLUE ON 
+6 -> LED BLUE OFF
+7 -> BUZZER ON
+7 -> BUZZER OFF
